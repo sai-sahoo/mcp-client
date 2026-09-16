@@ -8,6 +8,7 @@ dependencies = [
     "langchain>=1.4.0",
     "langchain-mcp-adapters>=0.3.2",
     "langchain-openai>=1.6.2",
+    "nest-asyncio>=1.6.0",
     "python-dotenv>=1.2.3",
     "streamlit>=1.64.0",
 ]
